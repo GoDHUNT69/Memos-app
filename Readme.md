@@ -104,8 +104,6 @@ The project focuses on **security, scalability, and cleanbackend architecture** 
 
 ### 1️⃣ Clone the Repository
 
-```bash
-
 git clone
 
 cd backend
